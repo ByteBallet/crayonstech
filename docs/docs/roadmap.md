@@ -24,7 +24,7 @@ Quivr is a platform for building second brains and personnal assistants. It is a
   - [X] Improved Documentation
     - [ ] Add a tutorial
     - [ ] Add a FAQ
-    - [X] Create a website - https://brain.quivr.app
+    - [X] Create a website - https://brain.brain.crayonstech.co
   - [X] Create public & private brains
   - [ ] Allow users to share/subcribe brains 
   - [ ] Improved UX/UI

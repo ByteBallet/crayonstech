@@ -2,12 +2,12 @@ import { fireEvent, render } from "@testing-library/react";
 import { afterEach, describe, expect, it, vi } from "vitest";
 
 import {
-  BrainConfigContextMock,
-  BrainConfigProviderMock,
+    BrainConfigContextMock,
+    BrainConfigProviderMock,
 } from "@/lib/context/BrainConfigProvider/mocks/BrainConfigProviderMock";
 import {
-  SupabaseContextMock,
-  SupabaseProviderMock,
+    SupabaseContextMock,
+    SupabaseProviderMock,
 } from "@/lib/context/SupabaseProvider/mocks/SupabaseProviderMock";
 
 import { ShareBrain } from "../ShareBrain";
@@ -85,7 +85,7 @@ describe("ShareBrain", () => {
     )[0];
 
     fireEvent.change(firstAssignationRowEmailInput, {
-      target: { value: "user@quivr.app" },
+      target: { value: "user@brain.crayonstech.co" },
     });
 
     const addNewRoleAssignationButton = getByTestId("add-new-row-role-button");

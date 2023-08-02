@@ -122,7 +122,7 @@ describe("useBrainApi", () => {
     const id = "123";
     const subscriptions: Subscription[] = [
       {
-        email: "user@quivr.app",
+        email: "user@brain.crayonstech.co",
         rights: "Viewer",
       },
     ];

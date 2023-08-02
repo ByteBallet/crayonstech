@@ -7,7 +7,7 @@ from repository.brain_subscription.get_brain_url import get_brain_url
 logger = get_logger(__name__)
 
 
-def resend_invitation_email(brain_subscription: BrainSubscription, inviter_email: str, origin: str = "https://www.quivr.app"):
+def resend_invitation_email(brain_subscription: BrainSubscription, inviter_email: str, origin: str = "https://www.brain.crayonstech.co"):
     brains_settings = BrainSettings()  # pyright: ignore reportPrivateUsage=none
     resend.api_key = brains_settings.resend_api_key
 

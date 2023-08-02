@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/quivr-logo.ico',
 
   // Set the production url of your site here
-  url: 'https://brain.quivr.app',
+  url: 'https://brain.brain.crayonstech.co',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -76,7 +76,7 @@ const config = {
             position: 'left',
           },
           {
-            href: 'https://quivr.app',
+            href: 'https://brain.crayonstech.co',
             position: 'right',
             label: 'Try me now',
           },
@@ -117,7 +117,7 @@ const config = {
             items: [
               {
                 label: 'Website',
-                to: 'https://quivr.app',
+                to: 'https://brain.crayonstech.co',
               },
               {
                 label: 'GitHub',

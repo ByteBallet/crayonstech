@@ -13,7 +13,7 @@ class BrainSettings(BaseSettings):
     supabase_url: str
     supabase_service_key: str
     resend_api_key: str = "null"
-    resend_email_address: str = "brain@mail.quivr.app"
+    resend_email_address: str = "brain@mail.brain.crayonstech.co"
 
 
 class LLMSettings(BaseSettings):

@@ -31,7 +31,7 @@ describe("useMagicLinkLogin", () => {
   });
 
   it("should call signInWithOtp with proper arguments", async () => {
-    const email = "user@quivr.app";
+    const email = "user@brain.crayonstech.co";
     const { result } = renderHook(() =>
       useMagicLinkLogin({
         email,

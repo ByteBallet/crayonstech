@@ -4,9 +4,9 @@ sidebar_position: 3
 
 # Error Handling
 
-**URL**: https://api.quivr.app/chat
+**URL**: https://api.brain.crayonstech.co/chat
 
-**Swagger**: https://api.quivr.app/docs
+**Swagger**: https://api.brain.crayonstech.co/docs
 
 ## Overview
 

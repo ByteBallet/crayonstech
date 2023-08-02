@@ -33,7 +33,7 @@ describe("usePassword", () => {
   });
 
   it("should call resetPasswordForEmail with proper arguments", async () => {
-    const email = "user@quivr.app";
+    const email = "user@brain.crayonstech.co";
     const { result } = renderHook(() =>
       usePasswordForgotten({
         email,

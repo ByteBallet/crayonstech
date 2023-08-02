@@ -4,9 +4,9 @@ sidebar_position: 1
 
 # How to use the API
 
-**URL**: https://api.quivr.app
+**URL**: https://api.brain.crayonstech.co
 
-**Swagger**: https://api.quivr.app/docs
+**Swagger**: https://api.brain.crayonstech.co/docs
 
 ## Overview
 This documentation outlines the key points and usage instructions for interacting with the API backend. Please follow the guidelines below to use the backend services effectively.

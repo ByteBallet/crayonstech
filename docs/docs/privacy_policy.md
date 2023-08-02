@@ -4,7 +4,7 @@ title: Privacy Policy
 ---
 
 ## Privacy Policy for Quivr
-At Quivr, accessible from quivr.app, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Quivr and how we use it.
+At Quivr, accessible from brain.crayonstech.co, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Quivr and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 

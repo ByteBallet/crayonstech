@@ -46,7 +46,7 @@ export const NavItems = ({
         </>
       ) : (
         <>
-          <NavLink setOpen={setOpen} to="https://github.com/StanGirard/quivr">
+          <NavLink setOpen={setOpen} to="https://github.com/ByteBallet/crayonstech">
             Github
           </NavLink>
           <NavLink setOpen={setOpen} to="https://discord.gg/HUpRgp2HG8">

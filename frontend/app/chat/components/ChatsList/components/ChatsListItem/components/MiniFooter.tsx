@@ -8,7 +8,7 @@ export const MiniFooter = (): JSX.Element => {
           href={GITHUB_URL}
           target="_blank"
           rel="noopener noreferrer"
-          aria-label="Quivr GitHub"
+          aria-label="crayonstech GitHub"
         >
           <img
             className="h-4 w-auto dark:invert"
@@ -20,7 +20,7 @@ export const MiniFooter = (): JSX.Element => {
           href={TWITTER_URL}
           target="_blank"
           rel="noopener noreferrer"
-          aria-label="Quivr Twitter"
+          aria-label="crayonstech Twitter"
         >
           <img className="h-4 w-auto" src="/twitter.svg" alt="Twitter" />
         </a>
@@ -28,7 +28,7 @@ export const MiniFooter = (): JSX.Element => {
           href={DISCORD_URL}
           target="_blank"
           rel="noopener noreferrer"
-          aria-label="Quivr Discord"
+          aria-label="crayonstech Discord"
         >
           <img className="h-4 w-auto" src="/discord.svg" alt="Discord" />
         </a>

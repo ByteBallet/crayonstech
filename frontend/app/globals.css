@@ -44,3 +44,15 @@ a {
   overflow-y: auto; /* Enable vertical scroll if the content exceeds the maximum height */
   padding-right: 1rem; /* Optional: Add some padding if the scrollbar appears, so the text is not squished */
 }
+
+@font-face {
+  font-family: 'Variex';
+  src: url('Variex\ Regular.ttf') format('truetype');
+  /* Add additional font weights and styles if available */
+}
+
+.logo-heading {
+  font-family: Variex, sans-serif;
+  font-style: normal;
+  font-weight: 300;
+}
